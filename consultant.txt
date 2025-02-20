@@ -1,0 +1,141 @@
+Formulaire de Recensement des Compétences Techniques en Data
+Informations Générales
+
+    Nom du Consultant :
+
+    Prénom du Consultant :
+
+    Date :
+
+    Poste Actuel :
+
+    Années d'Expérience :
+
+Compétences Techniques
+1. Langages de Programmation
+
+Cochez les langages que vous maîtrisez et indiquez votre niveau (Débutant, Intermédiaire, Avancé, Expert).
+Langage	Niveau	Commentaires (projets, certifications, etc.)
+Python		
+R		
+SQL		
+Java/Scala		
+Autres (précisez)		
+2. Outils et Plateformes
+
+Cochez les outils que vous utilisez et indiquez votre niveau.
+Outil/Plateforme	Niveau	Commentaires (expérience, certifications, etc.)
+Apache Spark		
+Hadoop		
+Tableau		
+Power BI		
+Autres (précisez)		
+3. Bases de Données
+
+Indiquez votre expérience avec les bases de données.
+Base de Données	Niveau	Commentaires (projets, certifications, etc.)
+MySQL		
+PostgreSQL		
+MongoDB		
+Oracle		
+SQL Server		
+NoSQL (Cassandra, Redis, etc.)		
+Autres (précisez)		
+4. Big Data et Data Engineering
+
+Cochez les compétences liées au Big Data et à l'ingénierie des données.
+Compétence	Niveau	Commentaires (projets, certifications, etc.)
+ETL/ELT		
+Data Pipelines		
+Data Warehousing		
+Data Lake		
+Streaming (Kafka, Flink, etc.)		
+Autres (précisez)		
+5. Machine Learning et Data Science
+
+Indiquez vos compétences en Machine Learning et Data Science.
+Compétence	Niveau	Commentaires (projets, certifications, etc.)
+Analyse exploratoire des données (EDA)		
+Modèles de régression		
+Modèles de classification		
+Modèles de clustering		
+Deep Learning (TensorFlow, PyTorch, etc.)		
+NLP (Traitement du langage naturel)		
+Autres (précisez)		
+6. Cloud Computing
+
+Cochez les services cloud que vous maîtrisez et indiquez votre niveau.
+Amazon Web Services (AWS)
+Service AWS	Niveau	Commentaires (projets, certifications, etc.)
+S3		
+Glue		
+Redshift		
+Lambda		
+EMR		
+SageMaker		
+Autres (précisez)		
+Microsoft Azure
+Service Azure	Niveau	Commentaires (projets, certifications, etc.)
+Azure Data Factory		
+Azure Synapse Analytics		
+Azure Databricks		
+Azure Blob Storage		
+Azure Machine Learning		
+Autres (précisez)		
+Google Cloud Platform (GCP)
+Service GCP	Niveau	Commentaires (projets, certifications, etc.)
+BigQuery		
+Dataflow		
+Cloud Storage		
+AI Platform		
+Dataproc		
+Autres (précisez)		
+7. Gestion de Projet et Méthodologies
+
+Cochez les méthodologies et outils de gestion de projet que vous maîtrisez.
+Méthodologie/Outils	Niveau	Commentaires (expérience, certifications, etc.)
+Agile/Scrum		
+Kanban		
+Jira		
+Git/GitHub/GitLab		
+Autres (précisez)		
+8. Certifications
+
+Listez les certifications techniques que vous avez obtenues.
+Certification	Date d'Obtention	Organisme de Certification
+		
+		
+		
+9. Projets Réalisés
+
+Décrivez brièvement les projets sur lesquels vous avez travaillé.
+Nom du Projet	Description	Technologies Utilisées	Rôle et Responsabilités
+			
+			
+			
+10. Compétences Transverses
+
+Indiquez vos compétences non techniques.
+Compétence	Niveau	Commentaires
+Communication		
+Travail d'équipe		
+Gestion du temps		
+Résolution de problèmes		
+Autres (précisez)		
+11. Objectifs de Développement
+
+Quelles sont les compétences techniques que vous souhaitez développer dans les 6 à 12 prochains mois ?
+Compétence	Priorité (1-5)	Plan d'Action
+		
+		
+		
+12. Commentaires Supplémentaires
+
+Espace pour toute information supplémentaire que vous souhaitez partager.
+Validation
+
+    Signature du Consultant :
+
+    Signature du Manager :
+
+    Date :

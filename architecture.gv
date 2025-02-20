@@ -1,0 +1,8 @@
+// Architecture Contrôle de Gestion
+digraph {
+	A [label="S3 (Data Lake)"]
+	B [label="Glue (ETL)"]
+	C [label=PySpark]
+	A -> B
+	B -> C
+}
